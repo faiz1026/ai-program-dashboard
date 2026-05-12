@@ -1,0 +1,13 @@
+project_name,owner,status (On Track/ At Risk/ Blocked),pct_complete,budget_used,blocker_notes,due_date
+CRM Platform Migration,Sarah,On Track,72,68,None,8/15/2025
+Cq3 Compliance Audit,Marcus,On Track,55,50,None,7/30/2025
+Employee Onboarding Redesign,Priya,On Track,88,81,None,6/20/2025
+Data Warehouse Consolidation,James,On Track,40,38,None,9/1/2025
+Internal Helpdek Automation,Linda,On Track,61,55,None,8/1/2025
+Vendor Contract Renewals,Derek,On Track,90,88,None,6/10/2025
+Cloud Infrastructure Upgrade,Aisha ,At Risk,34,62,Third-party vendor delayed hardware delivery by 3 weeks,7/15/2025
+Marketing Analytics Dashboard,Tom,At Risk,48,71,Scope expanded mid-project; resource reallocation pending approval,7/1/2025
+ERP System Integration,Natalie,At Risk,25,55,Key SME on leave; dependency on finance team sign-off unresolved,8/20/2025
+Mobile App Redesign,Kevin,At Risk,60,83,UX revisions requested by stakeholders after sprint review,7/10/2025
+Regulatory Reporting Overhaul,Sandra,Blocked,15,40,Awaiting legal approval on data handling policy; no ETA provided,9/15/2025
+Supply Chain Dashboard,Ray,Blocked,22,35,Source data feeds from two upstream systems are unavailable; IT ticket open,8/30/2025
